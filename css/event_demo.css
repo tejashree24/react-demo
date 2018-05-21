@@ -1,0 +1,23 @@
+.commentContainer{
+	height:100px;
+	width:300px;
+	background-color: #FF7F50;
+	margin: 20px;
+}
+
+.commentText{
+	color: black;
+}
+
+.board{
+	height:auto;
+	width:350px;
+	padding: 0px 20px;
+	background-color: cyan;
+}
+
+.table{
+	/*height: 250px;*/
+	width: 350px;
+	background-color:  #ebebeb;
+}
